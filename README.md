@@ -30,7 +30,7 @@ Roadmap
 
 - Support star-height of K
 - Support regex hints along with the input set
--- ability to generalize the specific regex using char classes or other known custom patterns(like date pattern, time pattern, etc).
+ - ability to generalize the specific regex using char classes or other known custom patterns(like date pattern, time pattern, etc).
  
  
 Reference
