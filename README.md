@@ -7,7 +7,7 @@ of words in the allowed list and shouldn't match the set of words in the disallo
 attempts to see if it's possible for a computer to solve this problem.
  
 Back to our problem, generating "optimal(shorter/efficient)" regexes for known set of samples is an interesting research area and 
-there's some good work of academic work that has gone into it. There are strong use-cases for this from Gene sequencing 
+there's some good amount of academic work that has gone into it. There are strong use-cases for this from Gene sequencing 
 to entity recognition to other streams of work. 
 
 More often than not, the goal of a system like this would be to help with data analysis and reducing the amount of 
